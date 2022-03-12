@@ -5,7 +5,7 @@ This project gives the correct placement for the [N Queens Problem](https://en.w
 ### Example
 
 ```bash
-$gradle run
+$ gradle run
 5
 (1, 4)
 (2, 2)
